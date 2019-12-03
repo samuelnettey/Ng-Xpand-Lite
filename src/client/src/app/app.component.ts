@@ -17,5 +17,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  // tslint:disable-next-line:whitespace
   pageTitle = 'Xpand - Reference Implementation';
 }
