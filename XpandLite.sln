@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "services", "services", "{1E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Products", "Products", "{DF352C93-410E-4143-87DC-41F4A0744DDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Products.Api", "src\Services\Products.Api\Products.Api.csproj", "{2B396B1E-FC95-4D94-9EA2-D53CD9C64134}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -16,8 +18,11 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{1EBB2F1E-5910-42B0-83B0-22481C1E28E2} = {94F1E1B1-30B1-4869-ADAE-20DDB50870A3}
 		{DF352C93-410E-4143-87DC-41F4A0744DDF} = {1EBB2F1E-5910-42B0-83B0-22481C1E28E2}
+		{2B396B1E-FC95-4D94-9EA2-D53CD9C64134} = {DF352C93-410E-4143-87DC-41F4A0744DDF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9D77BE5F-24D1-4FDF-921C-796011EA0989}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 	EndGlobalSection
 EndGlobal
