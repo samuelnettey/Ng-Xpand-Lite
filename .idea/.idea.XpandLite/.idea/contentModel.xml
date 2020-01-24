@@ -1,38 +1,18 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\ext_wlcom_nettey\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\ext_wlcom_nettey\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_XpandLite.-624214098.00" t="ExcludeRecursive" />
-    <e p="D:\workspace\Ng-Xpand-Lite" t="IncludeFlat">
-      <e p="packages" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="src" t="Include">
         <e p="services" t="Include">
           <e p="Products" t="Include" />
-          <e p="Products.Api" t="IncludeRecursive">
-            <e p="appsettings.Development.json" t="Include" />
-            <e p="appsettings.json" t="Include" />
-            <e p="bin" t="ExcludeRecursive" />
-            <e p="Controllers" t="Include">
-              <e p="WeatherForecastController.cs" t="Include" />
-            </e>
-            <e p="obj" t="ExcludeRecursive">
-              <e p="Debug" t="Include">
-                <e p="netcoreapp3.0" t="Include">
-                  <e p="Products.Api.AssemblyInfo.cs" t="Include" />
-                </e>
-              </e>
-            </e>
-            <e p="Products.Api.csproj" t="IncludeRecursive" />
-            <e p="Program.cs" t="Include" />
-            <e p="Properties" t="Include">
-              <e p="launchSettings.json" t="Include" />
-            </e>
-            <e p="Startup.cs" t="Include" />
-            <e p="WeatherForecast.cs" t="Include" />
-          </e>
         </e>
       </e>
       <e p="XpandLite.sln" t="IncludeFlat" />
     </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_XpandLite.-784852873.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
   </component>
 </project>
