@@ -2,20 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b99f829-ebe5-4ea4-a307-bd7e87c223c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Services/Products/Products.Api/obj/Debug/netcoreapp3.1/Products.Api.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Services/Products/Products.Api/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.XpandLite/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.XpandLite/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.XpandLite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.XpandLite/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/XpandLite.sln" beforeDir="false" afterPath="$PROJECT_DIR$/XpandLite.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/XpandLite.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/XpandLite.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/Products.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Products.Api/Products.Api.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/Products.Api.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Products.Api/obj/Products.Api.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/Products.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Products.Api/obj/Products.Api.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/Products.Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Products.Api/obj/Products.Api.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Products.Api/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Products.Api/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/Controllers/WeatherForecastController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Products/Products.Api/Controllers/WeatherForecastController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/Products.Api.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/Startup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/WeatherForecast.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Products/Products.Api/WeatherForecast.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Products/Products.Api/obj/Debug/netcoreapp3.1/Products.Api.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Products/Products.Api/obj/Debug/netcoreapp3.1/Products.Api.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/Products.Api.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/Products.Api.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/Products.Api.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/Products.Api.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Products.Api/obj/project.packagespec.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/Controllers/ValuesController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/Products.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/Products/Products.Api/Products.Api.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/Products/Products.Api/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/Products/Products.Api/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/Products/Products.Api/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/Products/Products.Api/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/Products/Products.Api/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.JsonPatch.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/bin/Debug/netcoreapp3.0/Newtonsoft.Json.Bson.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/bin/Debug/netcoreapp3.0/Products.Api" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/bin/Debug/netcoreapp3.0/Products.Api.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/bin/Debug/netcoreapp3.0/Products.Api.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/bin/Debug/netcoreapp3.0/Products.Api.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/bin/Debug/netcoreapp3.0/Products.Api.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/bin/Debug/netcoreapp3.0/Products.Api.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Debug/netcoreapp3.0/Products.Api" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.RazorAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.RazorAssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.RazorTargetAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Debug/netcoreapp3.0/Products.Api.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Products.Api.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Products.Api.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Products.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Products.Api.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Products.Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/Products.Api.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/Products/Products.Api/obj/project.assets.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +72,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Services/Products.Api/Controllers/WeatherForecastController.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/Services/Products.Api/Properties/launchSettings.json" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/Services/Products.Api/Startup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Services/Products/Products.Api/Controllers/WeatherForecastController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1WoXJdb7MP7vyWihrldagjDMu6i" />
   <component name="ProjectViewState">
@@ -101,7 +145,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579816850321</updated>
-      <workItem from="1579816852257" duration="477000" />
+      <workItem from="1579816852257" duration="919000" />
     </task>
     <servers />
   </component>
@@ -131,6 +175,10 @@
     </state>
     <state width="1680" height="262" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" timestamp="1579817122013" />
     <state width="3840" height="262" key="GridCell.Tab.0.right/1680.-47.3840.2137/0.23.1680.976@1680.-47.3840.2137" timestamp="1579851359115" />
+    <state x="3200" y="760" key="Rider.ProjectTemplateDialog.Size" timestamp="1579851568336">
+      <screen x="1680" y="-47" width="3840" height="2137" />
+    </state>
+    <state x="3200" y="760" key="Rider.ProjectTemplateDialog.Size/1680.-47.3840.2137/0.23.1680.976@1680.-47.3840.2137" timestamp="1579851568336" />
   </component>
   <component name="masterDetails">
     <states>
